@@ -1,0 +1,22 @@
+
+
+  b{
+   font-size: 20px; 
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   display: flex;
+   float: left;
+   padding: 10px 7px;
+   color:white;
+   background-color: #333;
+  }
+  b:hover {
+    background-color: #111;
+  }
+  .first{
+background-color: aqua;
+
+  }
+  img.one{
+    height: 20%;
+    width: 20%;
+  }
